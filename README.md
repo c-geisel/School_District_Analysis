@@ -7,11 +7,13 @@ This analysis was conducted to assess all standardized test data to inform and h
 - After removing the 9th grade student scores, the means of the math and reading score columns are recalculated. The average math score decreased by 0.1% in the new district summary and the average reading score stayed the same. The percent passing columns in the data frame changed as well. The percent passing math decreased by 0.2%, the percent passing reading decreased by 0.3% and the percent passing overall decreased by 0.1%
 
 Initial District Summary: ![Initial_district_summary.png](Resources/Initial_district_summary.png)
+
 New District Summary: ![new_district_summary.png](Resources/new_district_summary.png)
 
 - The school summary data frame is mostly unchanged by the removal of 9th graders from Thomas high schools score, however the data from Thomas high school was slightly altered. Average math scores went from 83.41% to 83.35%. Average reading scores increased from 83.84% to 83.89%. The Passing math score decreased from 93.27% to 93.18%. The passing reading percentage decreased from 97.3% to 97.01%. Finally, the overall passing percentage went from 90.95% to 90.63%.
 
 Initial School Summary: ![Initial_school_summary.png](Resources/Initial_school_summary.png)
+
 New School Summary: ![new_school_summary.png](Resources/new_school_summary.png)
 
 - Replacing ninth grader's math and reading scores doesn't have much of a difference in Thomas High School's performance relative to other schools. Initially, Thomas High School was the second-best school in the district based on the overall passing percentage. After removing 9th grade scores, they remained stayed at the second best position. They did slightly differ upon removal of scores such as the percent passing math, reading, and overall decreasing by less than a percent but other than this they remained in their position relative to other schools. School population size seems to have a much larger effect on the school performance as opposed to their passing percentage. 
