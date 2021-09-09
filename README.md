@@ -24,11 +24,24 @@ INSERT TOP PERFORMING SCHOOLS IMAGE
   - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
 
-
+The main difference in math and reading scores by grade upon the removal of the 9th grade scores is that there is now "nan" written in the 9th grade column of thomas high school instead of 83.6%. This is because we removed the reading and math scores because of academic dishonesty and thus there is no information to be displayed about the 9th grade overall passing percentage. The other columns for 10th, 11th, and 12th grade's information did not change.
+INSERT PHOTO SCORES_BY_GRADE
 
   - Scores by school spending
+
+The changing of the 9th grade scores ends up having no effect on the scores or percent passing based on the spending per student.
+INSERT SPENDING SUMMARY IMAGE
+
   - Scores by school size
+
+Similarly to the school spending summary analysis, removal of 9th grade scores does not have an effect on the scores based on the size of a school.
+INSERT SCHOOL SIZE SUMMARY
+
   - Scores by school type
+The scores based on school type did not change upon the removal of 9th grade scores. 
+INSERT SCHOOL TYPE SUMMARY
+
 
 ## Summary: 
 - Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1. 
