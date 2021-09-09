@@ -19,27 +19,32 @@ New School Summary: ![new_school_summary.png](Resources/new_school_summary.png)
 - Replacing ninth grader's math and reading scores doesn't have much of a difference in Thomas High School's performance relative to other schools. Initially, Thomas High School was the second-best school in the district based on the overall passing percentage. After removing 9th grade scores, they remained stayed at the second best position. They did slightly differ upon removal of scores such as the percent passing math, reading, and overall decreasing by less than a percent but other than this they remained in their position relative to other schools. School population size seems to have a much larger effect on the school performance as opposed to their passing percentage. 
 
 Top 5 Performing Schools: 
+
 ![new_top_5_performing_schools.png](Resources/new_top_5_performing_schools.png)
 
 
 - The main difference in math and reading scores by grade upon the removal of the 9th grade scores is that there is now "nan" written in the 9th grade column of Thomas High School instead of 83.6%. This is because we removed the reading and math scores because of academic dishonesty and thus there is no information to be displayed about the 9th grade overall passing percentage. The other columns for 10th, 11th, and 12th grade's information did not change.
 
 Scores by Grade: 
+
 ![scores_by_grade.png](Resources/scores_by_grade.png)
 
 - The changing of the 9th grade scores ends up having no effect on the scores or percent passing based on the spending per student.
 
 Spending Summary: 
+
 ![spending_summary.png](Resources/spending_summary.png)
 
 - Similarly, to the school spending summary analysis, removal of 9th grade scores does not have an effect on the scores based on the size of a school.
 
 School Size Summary: 
+
 ![school_size_summary.png](Resources/school_size_summary.png)
 
 - The scores based on school type did not change upon the removal of 9th grade scores. 
 
 School Type Summary: 
+
 ![school_type_summary.png](Resources/school_type_summary.png)
 
 
