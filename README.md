@@ -46,4 +46,4 @@ INSERT SCHOOL TYPE SUMMARY
 - Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 Replacing the reading and math scores with NaNs for ninth graders at Thomas High School resulted in a few changes. The first change that we can see is that the average math and reading scores at the district and school level changed with math decreasing and reading increasing. The second change that can be observed is that both on the district and school level the percent passing math decreased. Third, the percent passing reading decreased, and the final change that can be seen in the updated district analysis is that the percent passing overall decreased. However, in observing these changes it can be seen that the removal of ninth grader's scores did not have a huge effect in that the amount gained or lost was always less than a percent thus showing a small amount of significance for these scores.
-![image](https://user-images.githubusercontent.com/87433834/132771031-dcce541c-57f9-487e-8338-2624a021fda0.png)
+
