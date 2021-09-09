@@ -12,11 +12,20 @@ INSERT PHOTOS
 
   - How is the school summary affected?
 
-The school summary dataframe is mostly unchanged by the removal of 9th graders from thomas high schools score however the data from thomas high school was slighly altered. Avergae math scores went from 83.41% to 83.35%. Average reading scores increased from 83.84% to 83.89%. 
+The school summary dataframe is mostly unchanged by the removal of 9th graders from thomas high schools score however the data from thomas high school was slighly altered. Avergae math scores went from 83.41% to 83.35%. Average reading scores increased from 83.84% to 83.89%. The Passing math score decrease from 93.27% to 93.18%. The passing reading percentage decreased from 97.3% to 97.01%. Finally, the overall passing percentage went from 90.95% to 90.63%.
+INSERT PHOTOS
 
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Replacing ninth grader's math and reading scores doesn't have much of a difference in Thomas High School's performance relative to other schools. Initially, Thomas High School was the second best school in the district based on the overall passing percentage. After removing 9th grade scores they remained stayed at the second best position. They did slightly differ upon removal of scores such as the percent passing math, reading, and overall decreasing by less than a percent but other than this they remained in their position relative to other schools. School population size seems to have a much larger effect on the school performance as opposed to their passing percentage. 
+INSERT TOP PERFORMING SCHOOLS IMAGE
+
+
   - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+
+
+
   - Scores by school spending
   - Scores by school size
   - Scores by school type
